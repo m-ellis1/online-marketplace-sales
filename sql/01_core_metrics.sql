@@ -1,5 +1,5 @@
 -- ============================================
--- 02_core_metrics.sql
+-- 01_core_metrics.sql
 -- Purpose: Core business KPIs for online marketplace
 -- Metrics: revenue, orders, trends
 -- ============================================
