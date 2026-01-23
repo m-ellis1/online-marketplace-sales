@@ -30,3 +30,15 @@ The dataset was cleaned and loaded into SQLite for analysis.
 
 ## Repository Structure
 
+online-sales-analysis/
+├─ data/
+│ ├─ raw/ # Original Kaggle dataset
+│ └─ cleaned/ # Cleaned dataset used for analysis
+├─ sql/
+│ ├─ 01_core_metrics.sql
+│ └─ 02_revenue_drop_analysis.sql
+├─ insights/
+│ ├─ 01_core_metrics.md
+│ └─ 02_revenue_drop_analysis.md
+└─ README.md
+
