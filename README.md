@@ -47,6 +47,48 @@ online-marketplace-sales/
 
 
 ---
+
+## Analysis Summary
+
+### Core Metrics
+- Revenue peaked early in the year (January–April).
+- A clear decline began in May and continued through July.
+- August showed a slight recovery.
+
+### Revenue Drop Investigation (May–July 2024)
+- **Total order volume remained relatively stable**
+- **Average order value declined month over month**
+- The revenue decrease was driven primarily by **smaller, lower-value purchases**, not fewer customers.
+
+### Category-Level Findings
+- Electronics, Home Appliances, and Clothing were the largest contributors to the revenue decline.
+- Units sold dropped slightly, but the sharper decline was in **average order value**, especially in high-revenue categories.
+- Lower-priced categories (Books, Beauty Products) had minimal impact on the overall revenue trend.
+
+---
+
+## Tools Used
+- SQL (SQLite)
+- SQLiteStudio
+- GitHub (version control & documentation)
+- Tableau (visualization – forthcoming)
+
+---
+
+## Next Steps
+- Visualize trends using Tableau:
+  - Monthly revenue & AOV trends
+  - Category-level revenue changes
+- Drill down to product-level pricing and promotion effects
+- Explore strategies to increase average order value (bundling, upselling)
+
+---
+
+## Author
+Morgan Ellis  
+Data Analytics Portfolio Project
+
+---
 name: sales_analysis
 version: 1.0
 
